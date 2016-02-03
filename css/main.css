@@ -1,0 +1,127 @@
+header.cabecera{
+	background-color: #FCCE09;
+	min-height: 850px;
+	background-size: cover;
+}
+
+nav{
+
+	font-size: 25px;
+	margin-top: 50px;
+}
+
+
+li{
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 300;
+	margin: 0px 20px 0px 20px;
+}
+
+a{ 
+	color:white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.boton{
+	width: 150px;
+	height:50px;
+	background:#FCB739;
+}
+
+.textbo{
+	font-size: 16px;
+	padding:15px 40px 0px 0px;
+}
+
+h1{
+	margin-top: 200px;
+}
+
+.white{ 
+	color:white;
+}
+.seccion{
+	background-color: #EAEAE9;
+	min-height: 850px;
+	background-size: cover;
+}
+
+.box1{
+	margin: 40px;
+
+}
+
+.box2{
+	margin: 60px 60px 10px 60px;
+
+}
+
+.blanco{
+	background-color: white;
+	display: inline-block;
+	width: 425px;
+	
+}
+
+.titular{
+	font-size: 30px;
+	color: #868683;
+	margin: 20px;
+}
+
+.parrafo{
+	font-size: 18px;
+	color: #D1D1D0;
+	margin: 20px;
+}
+
+
+.boton1{
+	width: 120px;
+	height:40px;
+	background:#FCB739;
+	margin: 20px 0px 20px 150px;
+}
+
+.textba{
+	font-size: 16px;
+	padding:15px 0px 0px 0px;
+	margin: 20px
+}
+
+footer{
+	background-color: #323230;
+	width: 100%;
+	height: 100%;
+}
+
+.fotex{
+	color:white;
+	font-weight: 300;
+}
+
+.box{
+	margin: 25px 0px 40px 0px;
+}
+
+.ico{
+	 position: relative;
+	 top: 6px;
+}
+
+a.link{ 
+	color:white;
+	text-decoration: none;
+}
+
+a:hover.link {
+	color: #099ADC;
+	text-decoration: none;
+}
+
